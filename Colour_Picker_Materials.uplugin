@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Colour_Picker_Materials",
+	"Description": "A pair of materials to be used for a colour picker UI element. ",
+	"Category": "Other",
+	"CreatedBy": "Brian Pimentel",
+	"CreatedByURL": "https://www.brianpimentel.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
